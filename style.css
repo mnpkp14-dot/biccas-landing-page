@@ -1,0 +1,45 @@
+h2 {
+  font-family: Arial, sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  color: #54bd95;
+}
+
+nav {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #696a6e;
+  text-decoration: none;
+}
+h1 {
+  font-family: Arial, sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  color: #696a6e;
+  line-height: 1.2;
+}
+p {
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #000000;
+  line-height: 1.2;
+}
+
+button {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+header {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  color: #191a15;
+  text-decoration: none;
+}
+a {
+  color: #191a15;
+}
